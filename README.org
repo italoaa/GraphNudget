@@ -1,6 +1,6 @@
 #+TITLE: GraphNudget
 
-Sample graph shwoing the spending money descrease with time
+Sample graph showing the spending money decrease with time
 #+attr_org: :width 600px
 [[file:./photo.png]]
 
